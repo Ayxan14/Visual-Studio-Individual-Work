@@ -1,0 +1,20 @@
+C:\Users\HP-01\source\repos\Take notes\Take notes\obj\Debug\Take notes.csproj.AssemblyReference.cache
+C:\Users\HP-01\source\repos\Take notes\Take notes\obj\Debug\Take_notes.Form1.resources
+C:\Users\HP-01\source\repos\Take notes\Take notes\obj\Debug\Take_notes.Properties.Resources.resources
+C:\Users\HP-01\source\repos\Take notes\Take notes\obj\Debug\Take notes.csproj.GenerateResource.cache
+C:\Users\HP-01\source\repos\Take notes\Take notes\obj\Debug\Take notes.csproj.CoreCompileInputs.cache
+C:\Users\HP-01\source\repos\Take notes\Take notes\bin\Debug\Take notes.exe.config
+C:\Users\HP-01\source\repos\Take notes\Take notes\bin\Debug\Take notes.exe
+C:\Users\HP-01\source\repos\Take notes\Take notes\bin\Debug\Take notes.pdb
+C:\Users\HP-01\source\repos\Take notes\Take notes\obj\Debug\Take notes.exe
+C:\Users\HP-01\source\repos\Take notes\Take notes\obj\Debug\Take notes.pdb
+C:\Users\HP-01\Desktop\Take notes\Take notes\bin\Debug\Take notes.exe.config
+C:\Users\HP-01\Desktop\Take notes\Take notes\bin\Debug\Take notes.exe
+C:\Users\HP-01\Desktop\Take notes\Take notes\bin\Debug\Take notes.pdb
+C:\Users\HP-01\Desktop\Take notes\Take notes\obj\Debug\Take notes.csproj.AssemblyReference.cache
+C:\Users\HP-01\Desktop\Take notes\Take notes\obj\Debug\Take_notes.Form1.resources
+C:\Users\HP-01\Desktop\Take notes\Take notes\obj\Debug\Take_notes.Properties.Resources.resources
+C:\Users\HP-01\Desktop\Take notes\Take notes\obj\Debug\Take notes.csproj.GenerateResource.cache
+C:\Users\HP-01\Desktop\Take notes\Take notes\obj\Debug\Take notes.csproj.CoreCompileInputs.cache
+C:\Users\HP-01\Desktop\Take notes\Take notes\obj\Debug\Take notes.exe
+C:\Users\HP-01\Desktop\Take notes\Take notes\obj\Debug\Take notes.pdb
